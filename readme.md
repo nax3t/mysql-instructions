@@ -4,7 +4,7 @@
 - Verify your email
 - Open the Editor
 - When prompted by the connection wizard, name the connection anything you like (e.g., 'mysql') then search for and use the **Node - Ubuntu 14.04** template
-- Once the container has been deployed open up the SSH Terminal by right clicking the terminal name from the left hand menu and selecting SSH Terminal
+- Once the container has been deployed open up the SSH Terminal by right clicking the container/connection name (e.g., mysql) from the left hand file menu and selecting SSH Terminal
 - With the terminal open, run the following:
 - `/usr/bin/mysql_secure_installation`
 - You'll be prompted to enter a root user password, intially there won't be one so press enter and when prompted set your own password and confirm it
